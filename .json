@@ -1,0 +1,21 @@
+{
+    "uid":"uid1",
+    "lai":"lai1",
+    "borrowerName": "Divya Yash",
+    "borrowerAccountNo": "123456789",
+    "sanctionNo": "10000001",
+    "loanAgreementNo": "10000001",
+    "loanAccountNo": "10000001",
+    "loanType": "MTPL",
+    "repaymentTenure": "1 week",
+    "repaymentFrequency": 1,
+    "annualInterestPercentage": "30%",
+    "annualInterest": "INR 121",
+    "processingFeePercentage": "10% + GST",
+    "processingFee": "INR 354 (300 + 54)",
+    "disbursedAmount": "INR 2646",
+    "sanctionAmount": "INR 3000",
+    "repaymentAmount": "INR 3121",
+    "lateRepaymentFee": "INR 100/day",
+    "disbursedOn": "2024-03-12"
+}
